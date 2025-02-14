@@ -15,8 +15,6 @@ Activate the virtual environment:
 ```shell
 poetry shell
 ```
-Data used in this project can be downloaded via Kaggle
-
-```shell
+Data used in this project can be downloaded via Kaggle:
 https://www.kaggle.com/code/winternguyen/water-pump-maintenance-shutdown-prediction
-```
+Unzip the data and run the notebook
